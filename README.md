@@ -1,4 +1,4 @@
-# Focus-Have
+# Focus Hive Ecosystem
 * Today I learned about the Focus Pass, which is a tool that allows me to access various AI assistants like Zee and Merisa or others.
 * I also learned about Focus Jam, a platform enabling me to collaborate and communicate with my peers and colleagues.
 * These are some of the features that make Focus a great app for productivity and learning.
