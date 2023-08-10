@@ -3,6 +3,7 @@
 * I also learned about Focus Jam, a platform enabling me to collaborate and communicate with my peers and colleagues.
 * These are some of the features that make Focus a great app for productivity and learning.
 # TPM (Technical Project Manager)
+
 # Responsibilities of a Technical Program Manager (TPM) in a Tech Firm
 
 A Technical Program Manager (TPM) in a tech firm plays a crucial role in orchestrating and coordinating complex technical projects. They bridge the gap between technical teams, product managers, and stakeholders, ensuring successful project delivery. Here are the key responsibilities of a TPM:
